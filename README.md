@@ -1,3 +1,12 @@
+1) Install json-server:  
+2) Open terminal  
+> npm i -g json-server  
+Then run:  
+> json-server -p3001 ./src/api/tasks.json  
+
+3) Open other terminal and run:  
+> npm start  
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
